@@ -4,11 +4,11 @@ I'm a self-taught passionate Backend developer from Ethiopia 🇪🇹️
 
 **About me**
 
-- 💼 Backend Developer woring with Django
+- 💼 Backend Developer working with **Django**
 
-- 📈 ML and AI enthusiast
+- 📈 **ML** and **AI** enthusiast
 
-- ❤️ I love writing Python, and building APIs, Automating Stuffs and web scraping
+- ❤️ I love writing **Python**, and building **APIs**, **Automating Stuffs** and **web scraping**
 
 - You can reach me via **[Linkedin](https://www.linkedin.com/in/Kaleb-Abiy/)**
 <br>
