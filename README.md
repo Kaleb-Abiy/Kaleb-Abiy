@@ -4,7 +4,7 @@ I'm a self-taught passionate Backend developer from Ethiopia 🇪🇹️
 
 **About me**
 
-- 💼 Backend Developer working with **Django**
+- 💼 Backend Developer working with **Django**, **DRF**
 
 - 📈 **ML** and **AI** enthusiast
 
