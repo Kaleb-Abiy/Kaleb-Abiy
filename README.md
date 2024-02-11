@@ -4,7 +4,7 @@ I'm a self-taught passionate Full-stack Backend heavy developer from Ethiopia �
 
 **About me**
 
-- 💼 Backend Developer working with **Django**, **DRF**
+- 💼 Full-stack Developer working with **Django**, **DRF**, **React** and **Angular**
 
 - 📈 **ML** and **AI** enthusiast
 
