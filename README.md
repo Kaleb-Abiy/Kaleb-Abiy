@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught passionate Backend developer from Ethiopia 🇪🇹️
+I'm a self-taught passionate Full-stack Backend heavy developer from Ethiopia 🇪🇹️
 
 **About me**
 
