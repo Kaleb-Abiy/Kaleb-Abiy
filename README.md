@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm a self-taught passionate Full-stack Backend heavy developer from Ethiopia 🇪🇹️
+I'm a self-taught Software Engineer  from Ethiopia 🇪🇹️
 
 **About me**
 
-- 💼 Full-stack Developer working with **Django**, **DRF**, **React** and **Angular**
+- 💼 Full-stack Developer working with **Fast API**,**Django**, **React**, **Vue** and **Angular**
 
 - 📈 **ML** and **AI** enthusiast
 
-- ❤️ I love writing **Python**, and building **APIs**, **Automating Stuffs** and **web scraping**
+- ❤️ I love building **Software solutions**, building **APIs**, **Automating Stuffs** and **web scraping**
 
 - You can reach me via **[Linkedin](https://www.linkedin.com/in/Kaleb-Abiy/)**
 <br>
