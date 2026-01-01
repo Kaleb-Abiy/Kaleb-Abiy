@@ -8,7 +8,7 @@ I'm a self-taught Software Engineer  from Ethiopia 🇪🇹️
 
 - 📈 **ML** and **AI** enthusiast
 
-- ❤️ I love building **Software solutions**, building **APIs**, **Automating Stuffs** and **web scraping**
+- ❤️ I love building **Software solutions**, building **APIs** **AI Agents**, **Automating Stuffs** and **web scraping**
 
 - You can reach me via **[Linkedin](https://www.linkedin.com/in/Kaleb-Abiy/)**
 <br>
