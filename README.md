@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-taught Software Engineer  from Ethiopia 🇪🇹️
+I'm a self-taught Software Engineer from Ethiopia 🇪🇹️
 
 **About me**
 
